@@ -1,36 +1,26 @@
-### Hi, I'm Lucas 😁
+# Bem-vindo ao meu GitHub! 👋
 
-<!--
-**LucasIankoski/LucasIankoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Desde 2021, venho trilhando meu caminho no mundo do desenvolvimento, explorando e dominando uma variedade de tecnologias chave para criar soluções de software eficazes e impactantes.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:** Proficiente em **Java 8+**, com uma sólida compreensão de conceitos avançados e melhores práticas.
+- **Framework Backend:** Experiência com **Spring Boot**, criando aplicações backend robustas e escaláveis.
+- **Manutenção de Sistemas Legado:** Capacidade comprovada em manter sistemas utilizando **Java Server Pages (JSP)**.
+- **Bancos de Dados:** Conhecimento prático em bancos de dados **SQL**, incluindo **Oracle** e **Informix**, com habilidade para projetar e otimizar consultas.
+- **Desenvolvimento Frontend:** Habilidade em implementar interfaces dinâmicas e responsivas usando **HTML**, **CSS** e **JavaScript**.
+- **Frameworks JavaScript:** Estudo e aplicação recente de **Vue.js** para o desenvolvimento de interfaces de usuário interativas e reativas.
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+## 🌱 Aprendizado Contínuo
 
-  ##
-  
-<div> 
-  <a href="https://instagram.com/lucasiankoski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/lucasiankoski" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucas.iankoski@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ciankoski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/LucasIankoski/LucasIankoski/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
+Estou em constante busca por aprimoramento e novos conhecimentos. Recentemente, mergulhei no mundo do **Vue.js**, dedicando-me a entender profundamente essa poderosa biblioteca JavaScript. Acredito firmemente na importância do aprendizado contínuo e estou sempre atento às últimas tendências e ferramentas no desenvolvimento de software.
+
+## 💡 Motivação
+
+Minha maior motivação é enfrentar desafios técnicos, buscar soluções inovadoras e fazer parte de projetos que deixam um impacto positivo. Estou sempre em busca de oportunidades para melhorar minhas habilidades e contribuir com minha equipe e comunidade de forma significativa.
+
+---
+
+Estou entusiasmado para conectar-me com outros desenvolvedores e profissionais da indústria. Se você estiver interessado em colaborar ou simplesmente quiser bater um papo sobre tecnologia, fique à vontade para me contatar!
+
+**Vamos inovar juntos!** 🚀
