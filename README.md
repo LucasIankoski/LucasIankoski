@@ -7,7 +7,7 @@ Olá! Sou um desenvolvedor de software apaixonado por tecnologia e inovação. D
 - **Linguagens de Programação:** Proficiente em **Java 8+**, com uma sólida compreensão de conceitos avançados e melhores práticas.
 - **Framework Backend:** Experiência com **Spring Boot**, criando aplicações backend robustas e escaláveis.
 - **Manutenção de Sistemas Legado:** Capacidade comprovada em manter sistemas utilizando **Java Server Pages (JSP)**.
-- **Bancos de Dados:** Conhecimento prático em bancos de dados **SQL**, incluindo **Oracle** e **Informix**, com habilidade para projetar e otimizar consultas.
+- **Bancos de Dados:** Conhecimento prático em bancos de dados **SQL**, incluindo **Oracle** e **Informix**.
 - **Desenvolvimento Frontend:** Habilidade em implementar interfaces dinâmicas e responsivas usando **HTML**, **CSS** e **JavaScript**.
 - **Frameworks JavaScript:** Estudo e aplicação recente de **Vue.js** para o desenvolvimento de interfaces de usuário interativas e reativas.
 
